@@ -21,12 +21,36 @@ This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you t
 ### Executing program
 
 * **How to run the program:**
-  This is a Solidity smart contract, not a standalone program. It needs to be deployed to a blockchain network to be used.
 
-* **Step-by-step bullets:**
+1. Navigate to Remix: Open your web browser and go to https://remix.ethereum.org/.
 
-1. **Compile the Contract: Use your chosen compiler to generate the bytecode and Application Binary Interface (ABI) for FurinaToken. Refer to your compiler's documentation for specific commands.
-2. **Deploy to the Blockchain: Employ a blockchain deployment tool (e.g., Truffle, Remix) to interact with a blockchain network (e.g., Ethereum testnet, private network) and deploy the FurinaToken contract.
+2. Create a New File:
+
+* If you haven't already, create a new file named FurinToken.sol (or open your existing file containing the FurinaToken contract code).
+* Paste your FurinaToken contract code into the file.
+  
+3. Compile the Contract:
+
+* Click the "Compile" button in the left-hand sidebar.
+* Ensure there are no compilation errors displayed in the bottom panel.
+
+4. Deploy the Contract:
+
+* Click the "Deploy & Run Transactions" button in the left-hand sidebar.
+
+5. Select the Contract:
+
+* In the "Deploy" section of the "Deploy & Run Transactions" panel, make sure the contract selected is "FurinToken".
+
+6. Deploy the Contract:
+
+* Click the "Deploy" button.
+* If you connected a wallet, a confirmation window will appear in your wallet. Approve the transaction to deploy the contract.
+Remix will display the transaction details and the deployed contract address once the deployment is successful.
+
+7. Interact with the Contract (Optional):
+Once deployed, you can interact with the contract's functions (e.g., mint, burn) using the "Deploy & Run Transactions" panel.
+
 
 ## Help
 
