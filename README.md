@@ -12,11 +12,9 @@ This Solidity smart contract, inspired by Fontaine's Hydro Archon, Furina, allow
 
 ### Installing
 
-* **How/where to download your program:**
-  Clone or download this repository to your local development environment.
-
-* **Any modifications needed to be made to files/folders:**
-  No modifications are typically needed for the base code provided.
+* **Download the Contract: Clone or download this repository to your local development environment.
+  
+* **Solidity Compiler: Ensure you have a compatible Solidity compiler installed (version >= 0.8.0 recommended). Popular choices include command-line tools like solc or IDE plugins.
 
 ### Executing program
 
