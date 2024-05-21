@@ -22,34 +22,30 @@ This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you t
 
 How to run the program:
 
-1. Navigate to Remix: Open your web browser and go to https://remix.ethereum.org/.
+1. **Navigate to Remix:**
+   - Open your web browser and go to Remix.
 
-2. Create a New File:
+2. **Create a New File:**
+   - If you haven't already, create a new file named `FurinaToken.sol` (or open your existing file containing the FurinaToken contract code).
+   - Paste your FurinaToken contract code into the file.
 
-* If you haven't already, create a new file named FurinToken.sol (or open your existing file containing the FurinaToken contract code).
-* Paste your FurinaToken contract code into the file.
-  
-3. Compile the Contract:
+3. **Compile the Contract:**
+   - Click the "Compile" button in the left-hand sidebar.
+   - Ensure there are no compilation errors displayed in the bottom panel.
 
-* Click the "Compile" button in the left-hand sidebar.
-* Ensure there are no compilation errors displayed in the bottom panel.
+4. **Deploy the Contract:**
+   - Click the "Deploy & Run Transactions" button in the left-hand sidebar.
 
-4. Deploy the Contract:
+5. **Select the Contract:**
+   - In the "Deploy" section of the "Deploy & Run Transactions" panel, make sure the contract selected is "FurinaToken".
 
-* Click the "Deploy & Run Transactions" button in the left-hand sidebar.
+6. **Deploy the Contract:**
+   - Click the "Deploy" button.
+   - If you connected a wallet, a confirmation window will appear in your wallet. Approve the transaction to deploy the contract.
+   - Remix will display the transaction details and the deployed contract address once the deployment is successful.
 
-5. Select the Contract:
-
-* In the "Deploy" section of the "Deploy & Run Transactions" panel, make sure the contract selected is "FurinToken".
-
-6. Deploy the Contract:
-
-* Click the "Deploy" button.
-* If you connected a wallet, a confirmation window will appear in your wallet. Approve the transaction to deploy the contract.
-Remix will display the transaction details and the deployed contract address once the deployment is successful.
-
-7. Interact with the Contract:
-Once deployed, you can interact with the contract's functions (e.g., mint, burn) using the "Deploy & Run Transactions" panel.
+7. **Interact with the Contract:**
+   - Once deployed, you can interact with the contract's functions (e.g., mint, burn) using the "Deploy & Run Transactions" panel.
 
 ## Functionality
 
