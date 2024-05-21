@@ -51,6 +51,13 @@ Remix will display the transaction details and the deployed contract address onc
 7. Interact with the Contract:
 Once deployed, you can interact with the contract's functions (e.g., mint, burn) using the "Deploy & Run Transactions" panel.
 
+## Functionality
+
+The FurinaToken contract offers the following core functionalities:
+
+* **`mint(address _to, uint256 _value)`:** Mints a specified number of tokens (`_value`) and assigns them to the provided address (`_to`).
+* **`burn(address _from, uint256 _value)`:** Burns a specified number of tokens (`_value`) from the address (`_from`). This requires the address to have sufficient balance.
+
 
 ## Help
 
