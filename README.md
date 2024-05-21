@@ -4,9 +4,9 @@ Solidity Code that I made, with the name Furina Token we can make this show to t
 
 ## Description
 
-**Embrace the Flow of Fortune with FurinaToken!**
+**Lights! Camera! Token!**
 
-This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you to create and manage your own token, called Furina Token! Furina Token empowers you to build a vibrant in-game economy and a loyal community reward system, all made by using Furina's Heart and Mind.
+This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you to create and manage your own token, called Furina Token! Furina Token gives you the support to build a vibrant in-game economy and a loyal community reward system, all made by using Furina's Heart and Mind.
 
 ## Getting Started
 
