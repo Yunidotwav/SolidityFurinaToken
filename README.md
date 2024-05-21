@@ -6,15 +6,17 @@ Solidity Code that I made, with the name Furina Token we can make this show to t
 
 **Embrace the Flow of Fortune with FurinaToken!**
 
-This Solidity smart contract, inspired by Fontaine's Hydro Archon, Furina, allows you to create and manage your own ERC-20 token. Imagine the possibilities! FurinaToken empowers you to build a vibrant in-game economy, a loyal community reward system, or even a charitable platform – all fueled by the adaptable and fluid nature of Furina's essence.
+This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you to create and manage your own token, called Furina Token! Furina Token empowers you to build a vibrant in-game economy and a loyal community reward system, all made by using Furina's Heart and Mind.
 
 ## Getting Started
 
-### Installing
+### Installing or Online Compiler
 
-* **Download the Contract: Clone or download this repository to your local development environment.
+* Download the Contract: Clone or download this repository to your local development environment.
   
-* **Solidity Compiler: Ensure you have a compatible Solidity compiler installed (version >= 0.8.0 recommended). Popular choices include command-line tools like solc or IDE plugins.
+* Solidity Compiler: Ensure you have a compatible Solidity compiler installed (version >= 0.8.0 recommended). Popular choices include command-line tools like solc or IDE plugins.
+
+* Online Compiler on the other hand, go to https://remix.ethereum.org/ for compiling
 
 ### Executing program
 
@@ -23,11 +25,8 @@ This Solidity smart contract, inspired by Fontaine's Hydro Archon, Furina, allow
 
 * **Step-by-step bullets:**
 
-  1. **Compile the Contract:**
-     (Replace with the specific command for your compiler)
-
-  2. **Deploy to the Blockchain:**
-     Use a blockchain deployment tool (e.g., Truffle, Remix) to interact with a blockchain network and deploy the contract. Refer to the tool's documentation for specific instructions.
+1. **Compile the Contract: Use your chosen compiler to generate the bytecode and Application Binary Interface (ABI) for FurinaToken. Refer to your compiler's documentation for specific commands.
+2. **Deploy to the Blockchain: Employ a blockchain deployment tool (e.g., Truffle, Remix) to interact with a blockchain network (e.g., Ethereum testnet, private network) and deploy the FurinaToken contract.
 
 ## Help
 
