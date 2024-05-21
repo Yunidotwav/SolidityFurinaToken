@@ -64,7 +64,7 @@ Common Problems
 * Deployment: Funded account, syntax errors, tool configuration.
 * Interaction: Function arguments, insufficient balance, network congestion.
 
-## Authors
+## Author
 
 Yunie Ramirez
 @yunidotwav
