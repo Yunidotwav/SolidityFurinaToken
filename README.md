@@ -20,7 +20,7 @@ This Solidity Project, inspired by Fontaine's Hydro Archon, Furina, allows you t
 
 ### Executing program
 
-* **How to run the program:**
+How to run the program:
 
 1. Navigate to Remix: Open your web browser and go to https://remix.ethereum.org/.
 
@@ -54,17 +54,17 @@ Once deployed, you can interact with the contract's functions (e.g., mint, burn)
 
 ## Help
 
-**Any advise for common problems or issues:**
+Common Problems
 
-* Ensure you have a funded account on the target blockchain network to cover deployment fees.
 * Double-check your Solidity compiler version and syntax for any errors.
 * If using a deployment tool, verify its configuration and connection to the blockchain network.
-* For more advanced assistance, consider searching online forums or communities dedicated to Solidity development.
+* Deployment: Funded account, syntax errors, tool configuration.
+* Interaction: Function arguments, insufficient balance, network congestion.
 
 ## Authors
 
-* [Your Name Here] 
-* [@YourUsername](https://[your-social-media-link.com]) (if applicable)
+Yunie Ramirez
+@yunidotwav
 
 ## License
 
