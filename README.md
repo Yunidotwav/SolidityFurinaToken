@@ -48,7 +48,7 @@ How to run the program:
 * If you connected a wallet, a confirmation window will appear in your wallet. Approve the transaction to deploy the contract.
 Remix will display the transaction details and the deployed contract address once the deployment is successful.
 
-7. Interact with the Contract (Optional):
+7. Interact with the Contract:
 Once deployed, you can interact with the contract's functions (e.g., mint, burn) using the "Deploy & Run Transactions" panel.
 
 
